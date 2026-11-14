@@ -26,6 +26,12 @@ Game restart functionality
 
 The JavaFX interface uses controls such as buttons, labels, text fields, list views, and grid panes to create the different screens of the application.
 
+Snapshots of playing with human opponent and AI opponent
+
+![ Screenshot](screenshots/checkersgame.png)
+
+![ Screenshot](screenshots/AIgame.png)
+
 3. How the Game Works
 
 When the application starts, the player enters a unique username. The program checks the username against the list of currently connected users and rejects empty, duplicate, or reserved names.
@@ -45,6 +51,10 @@ The next stage focused on movement rules. I implemented normal movement, jumps, 
 I then worked on communication between players and added functionality for usernames, opponents, messaging, waiting for players, and playing against the computer.
 
 The final stage focused on improving the user experience, handling game-ending conditions, and fixing invalid moves and turn-management problems.
+
+Snapshot of my wireframe
+
+![Data Screenshot](screenshots/Wireframe.png)
 
 5. Bugs and Challenges
 
