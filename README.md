@@ -30,7 +30,10 @@ Snapshots of playing with human opponent and AI opponent
 
 ![ Screenshot](screenshots/checkersgame.png)
 
+
 ![ Screenshot](screenshots/AIgame.png)
+
+
 
 3. How the Game Works
 
@@ -54,7 +57,8 @@ The final stage focused on improving the user experience, handling game-ending c
 
 Snapshot of my wireframe
 
-![Data Screenshot](screenshots/Wireframe.png)
+![Data Screenshot](screenshots/Wireframe.jpg)
+
 
 5. Bugs and Challenges
 
