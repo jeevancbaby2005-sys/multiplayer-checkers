@@ -7,29 +7,46 @@ The project combines object-oriented programming, JavaFX GUI development, game l
 
 2. Main Features
 
-The application includes several features designed to make the checkers game interactive.
+The application includes several features designed to make the checkers game interactive:
 
 Graphical 8×8 checkers board
+
 Unique username validation
+
 Play against a computer
+
 Play against another player
+
 Player waiting/matching system
+
 Player messaging
+
 Regular piece movement
+
 Jump and capture moves
+
 Multiple-jump support
+
 King promotion
+
 Turn management
+
 Win and draw detection
+
 Opponent disconnect handling
+
 Game restart functionality
 
 The JavaFX interface uses controls such as buttons, labels, text fields, list views, and grid panes to create the different screens of the application.
 
-Snapshots of playing with human opponent and AI opponent
+Snapshots of playing with human opponent and AI opponent:
+
+Human opponent:
 
 ![ Screenshot](screenshots/checkersgame.png)
 
+
+AI opponent:
 
 ![ Screenshot](screenshots/AIgame.png)
 
@@ -55,7 +72,7 @@ I then worked on communication between players and added functionality for usern
 
 The final stage focused on improving the user experience, handling game-ending conditions, and fixing invalid moves and turn-management problems.
 
-Snapshot of my wireframe
+Snapshot of my wireframe:
 
 ![Data Screenshot](screenshots/Wireframe.jpg)
 
